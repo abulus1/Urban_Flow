@@ -25,3 +25,11 @@
 Joaquin Calderon
 Implementación de la clase FineAnalyzer
 Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_promedio, multas_por_ubicacion
+
+## [Sprint 1] - Ejercicio 05
+### Agustin Sanchez
+- Gráfico de barras horizontal top 10 patentes reincidentes
+- Gráfico de torta de infracciones por hora
+- Gráfico de barras horizontal de infracciones por mes
+- Gráfico de líneas de excesos por hora 00:00
+- Gráfico de líneas de excesos por fecha 1932-01-01
