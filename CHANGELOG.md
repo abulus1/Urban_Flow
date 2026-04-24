@@ -38,3 +38,7 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 ### Agustin Fernandez
 - Cálculo del porcentaje de infracciones en fecha 1932-01-01
 - Cálculo del porcentaje de infracciones a la hora 00:00
+
+## [Sprint 1] - Ejercicio 07
+### Agustin Fernandez
+- Redacción de la conclusión del análisis de los datos del dataset
