@@ -33,3 +33,8 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Gráfico de barras horizontal de infracciones por mes
 - Gráfico de líneas de excesos por hora 00:00
 - Gráfico de líneas de excesos por fecha 1932-01-01
+
+## [Sprint 1] - Ejercicio 06
+### Agustin Fernandez
+- Cálculo del porcentaje de infracciones en fecha 1932-01-01
+- Cálculo del porcentaje de infracciones a la hora 00:00
