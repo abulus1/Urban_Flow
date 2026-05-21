@@ -11,3 +11,12 @@
 ### Agustin Fernandez
 - Descarga del dataset raw y almacenamiento en urban_flow/data/raw
 - Análisis de tipos de datos y valores nulos
+
+## [Sprint 1] - Ejercicio 03
+### Candela Barboza
+- Normalización de fechas, horas, ubicaciones y patentes
+- Eliminación de filas con valores relevantes vacíos
+- Detección y eliminación de outliers
+- Creación de columnas exceso_velocidad_real y exceso_velocidad
+- Eliminación de filas sin infracción
+- Guardado del dataset limpio en urban_flow/data/interim
