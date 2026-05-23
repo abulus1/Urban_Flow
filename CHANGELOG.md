@@ -42,3 +42,9 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 ## [Sprint 1] - Ejercicio 07
 ### Agustin Fernandez
 - Redacción de la conclusión del análisis de los datos del dataset
+
+## [Sprint 2] - Ejercicio 01
+### Agustin Fernandez
+- Inicializacion de la rama Sprint_2 desde Sprint_1
+- Descarga y descompresion del dataset de imagenes en urban_flow/data/raw/imgs
+- Actualizacion de README.md con contexto del Sprint 2
