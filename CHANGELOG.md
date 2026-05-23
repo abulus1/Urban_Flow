@@ -70,3 +70,10 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Actualizacion de group_images.json con patentes detectadas
 - Matching posicional izquierda-derecha con umbral 80%
 - Dataset final guardado en urban_flow/data/processed
+
+## [Sprint 2] - Ejercicio 04
+### Agustin Fernandez
+- Extraccion de patentes via OCR sobre ambos grupos
+- Actualizacion de group_images.json con patentes detectadas
+- Matching posicional izquierda-derecha con umbral 80%
+- Dataset final guardado en urban_flow/data/processed
