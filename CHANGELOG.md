@@ -63,3 +63,10 @@ Conversion a escala de grises almacenada en 03_01_gray_scale
 Suavizado GaussianBlur almacenado en 03_02_blur
 Deteccion de bordes Canny almacenada en 03_03_canny
 Actualizacion de group_images.json con nuevas rutas
+
+## [Sprint 2] - Ejercicio 03
+### Agustin Sanchez
+- Conversion a escala de grises en 03_01_gray_scale/{plates,completes}
+- Suavizado GaussianBlur en 03_02_blur/{plates,completes}
+- Deteccion de bordes Canny en 03_03_canny/{plates,completes}
+- Actualizacion de group_images.json con path_gray, path_blur, path_canny
