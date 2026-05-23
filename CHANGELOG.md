@@ -56,3 +56,10 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Creacion del diccionario group_images guardado en urban_flow/data/interim
 - Implementacion de funcion mostrar_imagenes reutilizable
 - Visualizacion de imagenes originales
+
+[Sprint 2] - Ejercicio 03
+Agustin Sanchez
+Conversion a escala de grises almacenada en 03_01_gray_scale
+Suavizado GaussianBlur almacenado en 03_02_blur
+Deteccion de bordes Canny almacenada en 03_03_canny
+Actualizacion de group_images.json con nuevas rutas
