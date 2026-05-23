@@ -48,3 +48,11 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Inicializacion de la rama Sprint_2 desde Sprint_1
 - Descarga y descompresion del dataset de imagenes en urban_flow/data/raw/imgs
 - Actualizacion de README.md con contexto del Sprint 2
+
+## [Sprint 2] - Ejercicio 02
+### Candela Barboza
+- Listado de imagenes con nombre y tamaño en KB
+- Clasificacion en grupos plates y completes
+- Creacion del diccionario group_images guardado en urban_flow/data/interim
+- Implementacion de funcion mostrar_imagenes reutilizable
+- Visualizacion de imagenes originales
