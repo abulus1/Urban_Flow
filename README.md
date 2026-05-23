@@ -26,3 +26,17 @@ El análisis temporal reveló dos anomalías críticas que distorsionan los resu
 Los resultados del análisis temporal deben interpretarse con cautela, dado que aproximadamente el **46% de los registros** presentan anomalías en fecha u hora.
 
 Sugerimos analizar mejor las validaciones en origen y definir un criterio claro para el tratamiento de registros con fecha y hora inválidas, estableciendo que aquellos que no puedan ser interpretados sean marcados como **vacíos** en lugar de asignarles valores por defecto, evitando así que distorsionen el análisis.
+
+  ---
+## Sprint 2
+
+### Objetivo
+Aplicar conocimientos de tratamiento de imagenes y programacion limpia
+para determinar que multas tienen evidencia visual valida.
+
+### Introduccion y Contexto
+Los radares urbanos generan registros de multas automaticamente y las
+camaras asociadas registran la evidencia visual. No todas las multas
+tienen imagen asociada, no todas las imagenes corresponden a una
+infraccion y puede haber errores de deteccion. El objetivo es
+determinar que multas tienen evidencia visual valida.
