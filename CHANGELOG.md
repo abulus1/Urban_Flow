@@ -133,3 +133,13 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Actualizacion de group_images.json con patentes detectadas
 - Matching posicional izquierda-derecha con umbral 80%
 - Dataset final guardado en urban_flow/data/processed
+
+## [Sprint 2] - Ejercicio 05 y 06
+### Joaquin Calderon
+- Calculo de metricas finales del dataset procesado.
+- Analisis de multas con y sin imagenes asociadas.
+- Identificacion de imagenes sin coincidencia dentro del dataset.
+- Analisis de multas pendientes de pago con soporte visual relacionado.
+- Incorporacion de conclusiones generales del Sprint 2.
+- Documentacion del flujo OCR y matching de patentes.
+- Descripcion de limitaciones del reconocimiento automatico de caracteres.

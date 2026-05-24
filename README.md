@@ -68,3 +68,17 @@ camaras asociadas registran la evidencia visual. No todas las multas
 tienen imagen asociada, no todas las imagenes corresponden a una
 infraccion y puede haber errores de deteccion. El objetivo es
 determinar que multas tienen evidencia visual valida.
+
+# Sprint 2 - Ejercicio 06: Conclusiones finales
+
+En este segundo sprint se incorporó el procesamiento de imágenes al análisis de multas trabajado previamente. El objetivo principal fue relacionar el dataset tabular de infracciones con evidencia visual asociada a cada registro.
+
+Durante el desarrollo se clasificaron las imágenes disponibles entre fotografías completas y recortes de patentes. Luego se aplicaron técnicas básicas de procesamiento de imágenes, como conversión a escala de grises, suavizado con Gaussian Blur y detección de bordes mediante Canny.
+
+Posteriormente se utilizó OCR para extraer automáticamente posibles patentes desde las imágenes. Estas patentes fueron comparadas con las patentes del dataset final mediante un criterio de similitud, permitiendo identificar coincidencias aproximadas entre registros e imágenes.
+
+A partir de las métricas calculadas en el Ejercicio 05, se pudo obtener una visión general sobre la cantidad de multas con imágenes asociadas, multas sin evidencia visual, imágenes sin coincidencia y multas pendientes con imagen relacionada.
+
+Como limitación principal, el reconocimiento OCR puede fallar cuando las imágenes presentan baja resolución, mala iluminación, inclinación, ruido visual o patentes parcialmente visibles. Por este motivo, los resultados deben interpretarse como una aproximación inicial y no como una validación definitiva.
+
+En conclusión, el sprint permitió integrar datos estructurados e imágenes dentro de un mismo flujo de trabajo, fortaleciendo el análisis de multas mediante evidencia visual y dejando una base preparada para mejoras futuras en la detección automática de patentes.
