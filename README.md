@@ -54,3 +54,17 @@ camaras asociadas registran la evidencia visual. No todas las multas
 tienen imagen asociada, no todas las imagenes corresponden a una
 infraccion y puede haber errores de deteccion. El objetivo es
 determinar que multas tienen evidencia visual valida.
+
+  ---
+## Sprint 2
+
+### Objetivo
+Aplicar conocimientos de tratamiento de imagenes y programacion limpia
+para determinar que multas tienen evidencia visual valida.
+
+### Introduccion y Contexto
+Los radares urbanos generan registros de multas automaticamente y las
+camaras asociadas registran la evidencia visual. No todas las multas
+tienen imagen asociada, no todas las imagenes corresponden a una
+infraccion y puede haber errores de deteccion. El objetivo es
+determinar que multas tienen evidencia visual valida.
