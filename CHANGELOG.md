@@ -143,3 +143,9 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Incorporacion de conclusiones generales del Sprint 2.
 - Documentacion del flujo OCR y matching de patentes.
 - Descripcion de limitaciones del reconocimiento automatico de caracteres.
+
+## [Sprint 2] - Ejercicio 01
+### Agustin Fernandez
+- Inicializacion de la rama Sprint_2 desde Sprint_1
+- Descarga y descompresion del dataset de imagenes en urban_flow/data/raw/imgs
+- Actualizacion de README.md con contexto del Sprint 2

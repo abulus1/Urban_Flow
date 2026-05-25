@@ -82,3 +82,17 @@ A partir de las métricas calculadas en el Ejercicio 05, se pudo obtener una vis
 Como limitación principal, el reconocimiento OCR puede fallar cuando las imágenes presentan baja resolución, mala iluminación, inclinación, ruido visual o patentes parcialmente visibles. Por este motivo, los resultados deben interpretarse como una aproximación inicial y no como una validación definitiva.
 
 En conclusión, el sprint permitió integrar datos estructurados e imágenes dentro de un mismo flujo de trabajo, fortaleciendo el análisis de multas mediante evidencia visual y dejando una base preparada para mejoras futuras en la detección automática de patentes.
+
+  ---
+## Sprint 2
+
+### Objetivo
+Aplicar conocimientos de tratamiento de imagenes y programacion limpia
+para determinar que multas tienen evidencia visual valida.
+
+### Introduccion y Contexto
+Los radares urbanos generan registros de multas automaticamente y las
+camaras asociadas registran la evidencia visual. No todas las multas
+tienen imagen asociada, no todas las imagenes corresponden a una
+infraccion y puede haber errores de deteccion. El objetivo es
+determinar que multas tienen evidencia visual valida.
