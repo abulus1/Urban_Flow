@@ -164,3 +164,10 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Suavizado GaussianBlur en 03_02_blur/{plates,completes}
 - Deteccion de bordes Canny en 03_03_canny/{plates,completes}
 - Actualizacion de group_images.json con path_gray, path_blur, path_canny
+
+## [Sprint 2] - Ejercicio 04
+### Agustin Fernandez
+- Extraccion de patentes via OCR sobre ambos grupos
+- Actualizacion de group_images.json con patentes detectadas
+- Matching posicional izquierda-derecha con umbral 80%
+- Dataset final guardado en urban_flow/data/processed
