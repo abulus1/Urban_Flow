@@ -211,3 +211,9 @@ Definicion de relaciones entre entidades
 - Definicion de claves primarias y foreign keys entre tablas
 - Implementacion de relaciones ORM (Vehiculo, Radar, Evidencia, Multa)
 - Sobrescritura de __repr__ en cada modelo para mejor legibilidad
+
+## [Sprint 3] - Ejercicio 01
+### Agustin Sanchez
+- Inicialización de la rama Sprint_3 desde Sprint_2
+- Verificación de acceso a todos los datasets generados
+- Actualización de README.md con contexto del Sprint 3
