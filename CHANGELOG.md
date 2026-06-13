@@ -241,3 +241,10 @@ Definicion de relaciones entre entidades
 - Definicion de claves primarias y foreign keys entre tablas
 - Implementacion de relaciones ORM (Vehiculo, Radar, Evidencia, Multa)
 - Sobrescritura de __repr__ en cada modelo para mejor legibilidad
+
+## [Sprint 3] - Ejercicio 06
+### Agustin Sanchez
+- Creacion de la base de datos transito con SQLAlchemy
+- Creacion automatica de tablas desde el modelo ORM
+- Migracion de datos desde speeding_fines_image.csv
+- Validacion de cantidad de registros insertados
