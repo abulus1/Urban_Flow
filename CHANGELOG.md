@@ -188,55 +188,16 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Verificación de acceso a todos los datasets generados
 - Actualización de README.md con contexto del Sprint 3
 
-## [Sprint 3] - Ejercicio 01
-### Agustin Sanchez
-- Inicialización de la rama Sprint_3 desde Sprint_2
-- Verificación de acceso a todos los datasets generados
-- Actualización de README.md con contexto del Sprint 3
-
-[Sprint 3] - Ejercicio 02 (migración imágenes)
-Agustin Fernandez
-Migración del directorio de imágenes urban_flow_plates a DVC
-
-[Sprint 3] - Ejercicio 02 (migración CSV)
-Agustin Fernandez
-Migración del archivo speeding_fines_image.csv a DVC
-
-[Sprint 3] - Ejercicio 02 (migración CSV)
-Agustin Fernandez
-Migración del archivo speeding_fines_image.csv a DVC
-
-[Sprint 3] - Ejercicio 02
-Agustin Fernandez
+## [Sprint 3] - Ejercicio 02
+### Agustin Fernandez
 Inicializacion de DVC y configuracion de remote local
 Migracion del directorio de imagenes urban_flow_plates a DVC
 Migracion del archivo speeding_fines_image.csv a DVC
 
-[Sprint 3] - Ejercicio 03
-Agustin Fernandez
+## [Sprint 3] - Ejercicio 03
+### Agustin Fernandez
 Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
 Definicion de relaciones entre entidades
-
-[Sprint 3] - Ejercicio 03
-Agustin Fernandez
-Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
-Definicion de relaciones entre entidades
-
-[Sprint 3] - Ejercicio 03
-Agustin Fernandez
-Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
-Definicion de relaciones entre entidades
-
-[Sprint 3] - Ejercicio 03
-Agustin Fernandez
-Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
-Definicion de relaciones entre entidades
-
-## [Sprint 3] - Ejercicio 04
-### Agustin Sanchez
-- Implementacion de la funcion procesar_fila_csv
-- Mapeo de diccionario CSV a instancias del modelo logico
-- Manejo de evidencia opcional segun disponibilidad de imagen
 
 ## [Sprint 3] - Ejercicio 04
 ### Agustin Sanchez
