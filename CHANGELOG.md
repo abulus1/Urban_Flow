@@ -217,3 +217,9 @@ Definicion de relaciones entre entidades
 - Inicialización de la rama Sprint_3 desde Sprint_2
 - Verificación de acceso a todos los datasets generados
 - Actualización de README.md con contexto del Sprint 3
+
+[Sprint 3] - Ejercicio 02
+Agustin Fernandez
+Inicializacion de DVC y configuracion de remote local
+Migracion del directorio de imagenes urban_flow_plates a DVC
+Migracion del archivo speeding_fines_image.csv a DVC
