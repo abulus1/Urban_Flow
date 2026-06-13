@@ -216,3 +216,8 @@ Migracion del archivo speeding_fines_image.csv a DVC
 Agustin Fernandez
 Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
 Definicion de relaciones entre entidades
+
+[Sprint 3] - Ejercicio 03
+Agustin Fernandez
+Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
+Definicion de relaciones entre entidades
