@@ -205,3 +205,9 @@ Migración del archivo speeding_fines_image.csv a DVC
 [Sprint 3] - Ejercicio 02 (migración CSV)
 Agustin Fernandez
 Migración del archivo speeding_fines_image.csv a DVC
+
+[Sprint 3] - Ejercicio 02
+Agustin Fernandez
+Inicializacion de DVC y configuracion de remote local
+Migracion del directorio de imagenes urban_flow_plates a DVC
+Migracion del archivo speeding_fines_image.csv a DVC
