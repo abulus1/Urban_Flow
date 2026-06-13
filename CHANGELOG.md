@@ -201,3 +201,7 @@ Migración del directorio de imágenes urban_flow_plates a DVC
 [Sprint 3] - Ejercicio 02 (migración CSV)
 Agustin Fernandez
 Migración del archivo speeding_fines_image.csv a DVC
+
+[Sprint 3] - Ejercicio 02 (migración CSV)
+Agustin Fernandez
+Migración del archivo speeding_fines_image.csv a DVC
