@@ -187,3 +187,9 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 - Inicialización de la rama Sprint_3 desde Sprint_2
 - Verificación de acceso a todos los datasets generados
 - Actualización de README.md con contexto del Sprint 3
+
+## [Sprint 3] - Ejercicio 01
+### Agustin Sanchez
+- Inicialización de la rama Sprint_3 desde Sprint_2
+- Verificación de acceso a todos los datasets generados
+- Actualización de README.md con contexto del Sprint 3
