@@ -197,3 +197,7 @@ Métodos: ranking_patentes, ranking_horarios, exceso_promedio, exceso_real_prome
 [Sprint 3] - Ejercicio 02 (migración imágenes)
 Agustin Fernandez
 Migración del directorio de imágenes urban_flow_plates a DVC
+
+[Sprint 3] - Ejercicio 02 (migración CSV)
+Agustin Fernandez
+Migración del archivo speeding_fines_image.csv a DVC
