@@ -110,3 +110,17 @@ A partir de las métricas calculadas en el Ejercicio 05, se pudo obtener una vis
 Como limitación principal, el reconocimiento OCR puede fallar cuando las imágenes presentan baja resolución, mala iluminación, inclinación, ruido visual o patentes parcialmente visibles. Por este motivo, los resultados deben interpretarse como una aproximación inicial y no como una validación definitiva.
 
 En conclusión, el sprint permitió integrar datos estructurados e imágenes dentro de un mismo flujo de trabajo, fortaleciendo el análisis de multas mediante evidencia visual y dejando una base preparada para mejoras futuras en la detección automática de patentes.
+
+---
+## Sprint 3
+
+### Objetivo
+Profesionalizar la solución incorporando persistencia en base de datos
+relacional mediante SQLAlchemy, control de versiones de datos con DVC
+y preparación para búsquedas avanzadas con ChromaDB.
+
+### Introducción y Contexto
+El sistema ha crecido en volumen de datos y complejidad, por lo que ya
+no es viable trabajar únicamente con archivos CSV. En este Sprint se
+migra la información procesada a una base de datos estructurada,
+se versiona con DVC y se incorpora una base de datos vectorial.
