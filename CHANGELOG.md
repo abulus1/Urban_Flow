@@ -231,3 +231,9 @@ Definicion de relaciones entre entidades
 Agustin Fernandez
 Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
 Definicion de relaciones entre entidades
+
+## [Sprint 3] - Ejercicio 04
+### Agustin Sanchez
+- Implementacion de la funcion procesar_fila_csv
+- Mapeo de diccionario CSV a instancias del modelo logico
+- Manejo de evidencia opcional segun disponibilidad de imagen
