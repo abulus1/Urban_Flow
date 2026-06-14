@@ -180,3 +180,17 @@ El sistema ha crecido en volumen de datos y complejidad, por lo que ya
 no es viable trabajar únicamente con archivos CSV. En este Sprint se
 migra la información procesada a una base de datos estructurada,
 se versiona con DVC y se incorpora una base de datos vectorial.
+
+---
+## Sprint 3
+
+### Objetivo
+Profesionalizar la solución incorporando persistencia en base de datos
+relacional mediante SQLAlchemy, control de versiones de datos con DVC
+y preparación para búsquedas avanzadas con ChromaDB.
+
+### Introducción y Contexto
+El sistema ha crecido en volumen de datos y complejidad, por lo que ya
+no es viable trabajar únicamente con archivos CSV. En este Sprint se
+migra la información procesada a una base de datos estructurada,
+se versiona con DVC y se incorpora una base de datos vectorial.
