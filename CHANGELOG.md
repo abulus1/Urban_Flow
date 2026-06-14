@@ -271,3 +271,10 @@ Definicion de relaciones entre entidades
 - Implementacion de la funcion procesar_fila_csv
 - Mapeo de diccionario CSV a instancias del modelo logico
 - Manejo de evidencia opcional segun disponibilidad de imagen
+
+## [Sprint 3] - Ejercicio 05
+### Agustin Fernandez
+- Diseño del modelo relacional con SQLAlchemy ORM
+- Definicion de claves primarias y foreign keys entre tablas
+- Implementacion de relaciones ORM (Vehiculo, Radar, Evidencia, Multa)
+- Sobrescritura de __repr__ en cada modelo para mejor legibilidad
