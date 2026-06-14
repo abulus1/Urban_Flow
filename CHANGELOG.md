@@ -285,3 +285,12 @@ Definicion de relaciones entre entidades
 - Creacion automatica de tablas desde el modelo ORM
 - Migracion de datos desde speeding_fines_image.csv
 - Validacion de cantidad de registros insertados
+
+## [Sprint 3] - Ejercicio 07
+### Joaquin Calderon
+- Implementacion de consultas ORM sobre la base transito
+- Obtencion del top 10 de patentes con mayor cantidad de multas
+- Obtencion del top 10 de multas sin evidencia asociada
+- Identificacion de radares con mayor volumen de infracciones
+- Calculo de reincidencia por patente en el periodo 2020
+- Calculo del porcentaje de multas con evidencia visual
