@@ -314,3 +314,8 @@ Agustin Fernandez
 Inicializacion de DVC y configuracion de remote local
 Migracion del directorio de imagenes urban_flow_plates a DVC
 Migracion del archivo speeding_fines_image.csv a DVC
+
+[Sprint 3] - Ejercicio 03
+Agustin Fernandez
+Diseño del modelo logico con clases Vehiculo, Radar, Evidencia y Multa
+Definicion de relaciones entre entidades
