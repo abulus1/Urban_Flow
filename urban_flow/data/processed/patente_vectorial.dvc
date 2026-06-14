@@ -1,0 +1,6 @@
+outs:
+- md5: 3f152201384ab19b15a060bd0f0602a8.dir
+  size: 188416
+  nfiles: 1
+  hash: md5
+  path: patente_vectorial

@@ -294,3 +294,11 @@ Definicion de relaciones entre entidades
 - Identificacion de radares con mayor volumen de infracciones
 - Calculo de reincidencia por patente en el periodo 2020
 - Calculo del porcentaje de multas con evidencia visual
+
+## [Sprint 3] - Ejercicio 08
+### Joaquin Calderon
+- Creacion de la base vectorial patente_vectorial con ChromaDB
+- Vectorizacion de imagenes de patentes mediante OpenCLIP
+- Vinculacion entre vehiculo_id de la base relacional y vector de imagen
+- Carga de embeddings, documentos y metadatos en la coleccion vectorial
+- Versionado de la base vectorial generada con DVC
