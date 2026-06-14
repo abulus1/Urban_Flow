@@ -302,3 +302,9 @@ Definicion de relaciones entre entidades
 - Vinculacion entre vehiculo_id de la base relacional y vector de imagen
 - Carga de embeddings, documentos y metadatos en la coleccion vectorial
 - Versionado de la base vectorial generada con DVC
+
+## [Sprint 3] - Ejercicio 01
+### Agustin Sanchez
+- Inicialización de la rama Sprint_3 desde Sprint_2
+- Verificación de acceso a todos los datasets generados
+- Actualización de README.md con contexto del Sprint 3
