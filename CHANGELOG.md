@@ -248,3 +248,9 @@ Definicion de relaciones entre entidades
 - Creacion automatica de tablas desde el modelo ORM
 - Migracion de datos desde speeding_fines_image.csv
 - Validacion de cantidad de registros insertados
+
+## [Sprint 3] - Ejercicio 01
+### Agustin Sanchez
+- Inicialización de la rama Sprint_3 desde Sprint_2
+- Verificación de acceso a todos los datasets generados
+- Actualización de README.md con contexto del Sprint 3
