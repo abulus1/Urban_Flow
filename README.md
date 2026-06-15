@@ -41,62 +41,6 @@ tienen imagen asociada, no todas las imagenes corresponden a una
 infraccion y puede haber errores de deteccion. El objetivo es
 determinar que multas tienen evidencia visual valida.
 
-  ---
-## Sprint 2
-
-### Objetivo
-Aplicar conocimientos de tratamiento de imagenes y programacion limpia
-para determinar que multas tienen evidencia visual valida.
-
-### Introduccion y Contexto
-Los radares urbanos generan registros de multas automaticamente y las
-camaras asociadas registran la evidencia visual. No todas las multas
-tienen imagen asociada, no todas las imagenes corresponden a una
-infraccion y puede haber errores de deteccion. El objetivo es
-determinar que multas tienen evidencia visual valida.
-
-  ---
-## Sprint 2
-
-### Objetivo
-Aplicar conocimientos de tratamiento de imagenes y programacion limpia
-para determinar que multas tienen evidencia visual valida.
-
-### Introduccion y Contexto
-Los radares urbanos generan registros de multas automaticamente y las
-camaras asociadas registran la evidencia visual. No todas las multas
-tienen imagen asociada, no todas las imagenes corresponden a una
-infraccion y puede haber errores de deteccion. El objetivo es
-determinar que multas tienen evidencia visual valida.
-
-# Sprint 2 - Ejercicio 06: Conclusiones finales
-
-En este segundo sprint se incorporó el procesamiento de imágenes al análisis de multas trabajado previamente. El objetivo principal fue relacionar el dataset tabular de infracciones con evidencia visual asociada a cada registro.
-
-Durante el desarrollo se clasificaron las imágenes disponibles entre fotografías completas y recortes de patentes. Luego se aplicaron técnicas básicas de procesamiento de imágenes, como conversión a escala de grises, suavizado con Gaussian Blur y detección de bordes mediante Canny.
-
-Posteriormente se utilizó OCR para extraer automáticamente posibles patentes desde las imágenes. Estas patentes fueron comparadas con las patentes del dataset final mediante un criterio de similitud, permitiendo identificar coincidencias aproximadas entre registros e imágenes.
-
-A partir de las métricas calculadas en el Ejercicio 05, se pudo obtener una visión general sobre la cantidad de multas con imágenes asociadas, multas sin evidencia visual, imágenes sin coincidencia y multas pendientes con imagen relacionada.
-
-Como limitación principal, el reconocimiento OCR puede fallar cuando las imágenes presentan baja resolución, mala iluminación, inclinación, ruido visual o patentes parcialmente visibles. Por este motivo, los resultados deben interpretarse como una aproximación inicial y no como una validación definitiva.
-
-En conclusión, el sprint permitió integrar datos estructurados e imágenes dentro de un mismo flujo de trabajo, fortaleciendo el análisis de multas mediante evidencia visual y dejando una base preparada para mejoras futuras en la detección automática de patentes.
-
-  ---
-## Sprint 2
-
-### Objetivo
-Aplicar conocimientos de tratamiento de imagenes y programacion limpia
-para determinar que multas tienen evidencia visual valida.
-
-### Introduccion y Contexto
-Los radares urbanos generan registros de multas automaticamente y las
-camaras asociadas registran la evidencia visual. No todas las multas
-tienen imagen asociada, no todas las imagenes corresponden a una
-infraccion y puede haber errores de deteccion. El objetivo es
-determinar que multas tienen evidencia visual valida.
-
 # Sprint 2 - Ejercicio 06: Conclusiones finales
 
 En este segundo sprint se incorporó el procesamiento de imágenes al análisis de multas trabajado previamente. El objetivo principal fue relacionar el dataset tabular de infracciones con evidencia visual asociada a cada registro.
@@ -125,72 +69,19 @@ no es viable trabajar únicamente con archivos CSV. En este Sprint se
 migra la información procesada a una base de datos estructurada,
 se versiona con DVC y se incorpora una base de datos vectorial.
 
----
-## Sprint 3
+# Sprint 3 - Ejercicio 10: Conclusiones finales
+A lo largo del Sprint 3 se profesionalizó la solución del sistema
+Urban Flow incorporando persistencia relacional mediante SQLAlchemy,
+control de versiones de datos con DVC y búsqueda vectorial con
+ChromaDB y OpenCLIP.
 
-### Objetivo
-Profesionalizar la solución incorporando persistencia en base de datos
-relacional mediante SQLAlchemy, control de versiones de datos con DVC
-y preparación para búsquedas avanzadas con ChromaDB.
+La migración desde archivos CSV a una base de datos estructurada
+permitió realizar consultas complejas sobre multas, vehículos y
+radares de forma eficiente. La incorporación de ChromaDB habilitó
+la búsqueda por similitud semántica, vinculando ambas bases de datos
+para recuperar información de vehículos a partir de imágenes.
 
-### Introducción y Contexto
-El sistema ha crecido en volumen de datos y complejidad, por lo que ya
-no es viable trabajar únicamente con archivos CSV. En este Sprint se
-migra la información procesada a una base de datos estructurada,
-se versiona con DVC y se incorpora una base de datos vectorial.
-
----
-## Sprint 3
-
-### Objetivo
-Profesionalizar la solución incorporando persistencia en base de datos
-relacional mediante SQLAlchemy, control de versiones de datos con DVC
-y preparación para búsquedas avanzadas con ChromaDB.
-
-### Introducción y Contexto
-El sistema ha crecido en volumen de datos y complejidad, por lo que ya
-no es viable trabajar únicamente con archivos CSV. En este Sprint se
-migra la información procesada a una base de datos estructurada,
-se versiona con DVC y se incorpora una base de datos vectorial.
-
----
-## Sprint 3
-
-### Objetivo
-Profesionalizar la solución incorporando persistencia en base de datos
-relacional mediante SQLAlchemy, control de versiones de datos con DVC
-y preparación para búsquedas avanzadas con ChromaDB.
-
-### Introducción y Contexto
-El sistema ha crecido en volumen de datos y complejidad, por lo que ya
-no es viable trabajar únicamente con archivos CSV. En este Sprint se
-migra la información procesada a una base de datos estructurada,
-se versiona con DVC y se incorpora una base de datos vectorial.
-
----
-## Sprint 3
-
-### Objetivo
-Profesionalizar la solución incorporando persistencia en base de datos
-relacional mediante SQLAlchemy, control de versiones de datos con DVC
-y preparación para búsquedas avanzadas con ChromaDB.
-
-### Introducción y Contexto
-El sistema ha crecido en volumen de datos y complejidad, por lo que ya
-no es viable trabajar únicamente con archivos CSV. En este Sprint se
-migra la información procesada a una base de datos estructurada,
-se versiona con DVC y se incorpora una base de datos vectorial.
-
----
-## Sprint 3
-
-### Objetivo
-Profesionalizar la solución incorporando persistencia en base de datos
-relacional mediante SQLAlchemy, control de versiones de datos con DVC
-y preparación para búsquedas avanzadas con ChromaDB.
-
-### Introducción y Contexto
-El sistema ha crecido en volumen de datos y complejidad, por lo que ya
-no es viable trabajar únicamente con archivos CSV. En este Sprint se
-migra la información procesada a una base de datos estructurada,
-se versiona con DVC y se incorpora una base de datos vectorial.
+Como limitación encontrada, las imágenes no pudieron recuperarse
+desde el remote DVC en el entorno efímero de Colab, por lo que la
+vectorización se realizó sobre texto descriptivo. Esto mantiene la
+arquitectura planteada preservando la consistencia del sistema.
