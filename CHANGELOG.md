@@ -71,13 +71,6 @@
 - Matching posicional izquierda-derecha con umbral 80%
 - Dataset final guardado en urban_flow/data/processed
 
-## [Sprint 2] - Ejercicio 04
-### Agustin Fernandez
-- Extraccion de patentes via OCR sobre ambos grupos
-- Actualizacion de group_images.json con patentes detectadas
-- Matching posicional izquierda-derecha con umbral 80%
-- Dataset final guardado en urban_flow/data/processed
-
 ## [Sprint 2] - Ejercicio 05 y 06
 ### Joaquin Calderon
 - Calculo de metricas finales del dataset procesado.
@@ -141,3 +134,13 @@
 - Vinculacion entre vehiculo_id de la base relacional y registros vectoriales
 - Carga de documentos, embeddings y metadatos en la coleccion vectorial
 - Versionado de la base vectorial generada con DVC
+
+## [Sprint 3] - Ejercicio 09
+### Candela Barboza
+- Implementacion de la funcion buscar_patente_imagen
+- Busqueda por similitud vectorial en ChromaDB
+- Recuperacion de datos del vehiculo desde SQLAlchemy
+
+## [Sprint 3] - Ejercicio 10
+### Candela Barboza
+- Redaccion de conclusion del Sprint 3 en data/Readme.md
